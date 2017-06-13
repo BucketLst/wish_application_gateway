@@ -1,0 +1,8 @@
+E:\application_services\webapi\wish_application_gateway\test\bin\Debug\netcoreapp1.1\test.deps.json
+E:\application_services\webapi\wish_application_gateway\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.json
+E:\application_services\webapi\wish_application_gateway\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.dev.json
+E:\application_services\webapi\wish_application_gateway\test\bin\Debug\netcoreapp1.1\test.dll
+E:\application_services\webapi\wish_application_gateway\test\bin\Debug\netcoreapp1.1\test.pdb
+E:\application_services\webapi\wish_application_gateway\test\obj\Debug\netcoreapp1.1\test.AssemblyInfo.cs
+E:\application_services\webapi\wish_application_gateway\test\obj\Debug\netcoreapp1.1\test.dll
+E:\application_services\webapi\wish_application_gateway\test\obj\Debug\netcoreapp1.1\test.pdb
